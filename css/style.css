@@ -1,0 +1,19 @@
+body {
+  background-color: #051536;
+}
+
+.center-cropped {
+    object-fit: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+.card-size {
+    height: 200px;
+    width: 200px;
+}
+
+.card-size img {
+  height: 180px;
+  width: 180px;
+}
