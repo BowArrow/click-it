@@ -1,13 +1,13 @@
 {
-  "main.css": "/BowArrow/click-it/static/css/main.9e547a9d.chunk.css",
-  "main.js": "/BowArrow/click-it/static/js/main.c692a719.chunk.js",
-  "main.js.map": "/BowArrow/click-it/static/js/main.c692a719.chunk.js.map",
-  "runtime~main.js": "/BowArrow/click-it/static/js/runtime~main.7a95c6c5.js",
-  "runtime~main.js.map": "/BowArrow/click-it/static/js/runtime~main.7a95c6c5.js.map",
-  "static/js/2.65ada2a4.chunk.js": "/BowArrow/click-it/static/js/2.65ada2a4.chunk.js",
-  "static/js/2.65ada2a4.chunk.js.map": "/BowArrow/click-it/static/js/2.65ada2a4.chunk.js.map",
-  "index.html": "/BowArrow/click-it/index.html",
-  "precache-manifest.6e8df584318bba2127ed4e21c7e58c31.js": "/BowArrow/click-it/precache-manifest.6e8df584318bba2127ed4e21c7e58c31.js",
-  "service-worker.js": "/BowArrow/click-it/service-worker.js",
-  "static/css/main.9e547a9d.chunk.css.map": "/BowArrow/click-it/static/css/main.9e547a9d.chunk.css.map"
+  "main.css": "/click-it/static/css/main.9e547a9d.chunk.css",
+  "main.js": "/click-it/static/js/main.1e33c919.chunk.js",
+  "main.js.map": "/click-it/static/js/main.1e33c919.chunk.js.map",
+  "runtime~main.js": "/click-it/static/js/runtime~main.308ad63b.js",
+  "runtime~main.js.map": "/click-it/static/js/runtime~main.308ad63b.js.map",
+  "static/js/2.65ada2a4.chunk.js": "/click-it/static/js/2.65ada2a4.chunk.js",
+  "static/js/2.65ada2a4.chunk.js.map": "/click-it/static/js/2.65ada2a4.chunk.js.map",
+  "index.html": "/click-it/index.html",
+  "precache-manifest.c45d2b8be5786e57b88236a6b29189de.js": "/click-it/precache-manifest.c45d2b8be5786e57b88236a6b29189de.js",
+  "service-worker.js": "/click-it/service-worker.js",
+  "static/css/main.9e547a9d.chunk.css.map": "/click-it/static/css/main.9e547a9d.chunk.css.map"
 }

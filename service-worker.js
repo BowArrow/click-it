@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BowArrow/click-it/precache-manifest.6e8df584318bba2127ed4e21c7e58c31.js"
+  "/click-it/precache-manifest.c45d2b8be5786e57b88236a6b29189de.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/BowArrow/click-it/index.html", {
+workbox.routing.registerNavigationRoute("/click-it/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
